@@ -1,10 +1,10 @@
-print "hello andrea!"
+print "hello Topix!"
 
-for i in range(0,4):
+for i in range(0,10):
   print i
 
-for i in range(0,4):
+for i in range(0,10):
   print i
 
-  my_dict={}
-  my_dict['topix'] = 4
+my_dict = {}
+my_dict['topix'] = 10
